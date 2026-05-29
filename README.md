@@ -50,16 +50,6 @@ intercodegenerator/
 - Python 3.7 or higher
 - tkinter (usually included with Python)
 
-### Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/intercodegenerator.git
-cd intercodegenerator
-
-# No additional dependencies required
-```
-
 ## Usage
 
 ### GUI Application
